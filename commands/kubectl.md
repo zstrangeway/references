@@ -27,5 +27,3 @@
 
 - ### List Pods
     `kubectl get pod`
-
-[<- Home](https://github.com/zstrangeway/references)
